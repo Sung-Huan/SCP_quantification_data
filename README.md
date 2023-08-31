@@ -13,6 +13,6 @@ BCP_IMBR_PSM: BCP dataset where both IMBR and PSM-level normalization were appli
 
 BCP_PSM: BCP dataset where IMBR was not used, but PSM-level normalization was applied.
 
-Annotation_table_SCP: this table can be imported into Perseus for annotating the SCP data. (Processing->isobaric labeling->Annotation from a file)
+Annotation_Table_SCP: this table can be imported into Perseus for annotating the SCP data. (Processing->isobaric labeling->Annotation from a file)
 
-Annotation_table_BCP: this table can be imported into Perseus for annotating the BCP data. (Processing->isobaric labeling->Annotation from a file)
+Annotation_Table_BCP: this table can be imported into Perseus for annotating the BCP data. (Processing->isobaric labeling->Annotation from a file)
